@@ -42,5 +42,5 @@ Each request is sent as an array. THe first index is an int of 1, and the 2nd va
   print(socket.recv())
   ```
 
-#UML Diagram
+# UML Diagram
 ![image](https://github.com/user-attachments/assets/c3c5c0c8-81e9-4a10-b7cd-5a1564824860)
