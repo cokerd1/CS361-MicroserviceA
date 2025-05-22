@@ -7,7 +7,7 @@ Once those are created, you should be prompted for a username and password, go a
 You'll also need to edit the next 3 variables. The collection name, the database name you want to work with, and then the connection string. The connection string you can get
 on MongoDB by clicking on Clusters on the left hand side, then Connect, then Drivers.
 
-#Request and Receive Data
+# Request and Receive Data
 
 I have included the sample code I used during the demonstration, the ZeroMQ code we used during assignment 4 is being used here with the same principles,
 but the meat of the code is as follows:
